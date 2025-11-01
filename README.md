@@ -106,4 +106,4 @@ MIT
 
 ## 👤 Author
 
-Adeyemo Samue - Web3Bridge Cohort XIV
+Adeyemo Samuel - Web3Bridge Cohort XIV
